@@ -19,7 +19,6 @@ layout: default
       {{ page.title }}
     <span class="float-right d-flex gap-2 align-items-center">
       {% if page.cv_pdf %}
-        <a
           {% if page.cv_pdf contains '://' %}
             href="{{ page.cv_pdf }}"
           {% else %}
