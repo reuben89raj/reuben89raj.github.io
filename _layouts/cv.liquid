@@ -19,10 +19,10 @@ layout: default
       {{ page.title }}
     {% if page.cv_pdf %}
 <a href="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | relative_url }}{% endif %}"
-   target="_blank" rel="noopener noreferrer" title="Industry CV"
+   target="_blank" rel="noopener noreferrer" title="Resume"
    style="text-align:center; text-decoration:none; font-size:0.7rem; color:inherit; line-height:1.3;">
   <i class="fa-solid fa-file-pdf" style="font-size:1.8rem; display:block;"></i>
-  Industry
+  Resumé
 </a>
 {% endif %}
 {% if page.cv_pdf_academic %}
@@ -30,7 +30,7 @@ layout: default
    target="_blank" rel="noopener noreferrer" title="Academic CV"
    style="text-align:center; text-decoration:none; font-size:0.7rem; color:inherit; line-height:1.3;">
   <i class="fa-solid fa-file-pdf" style="font-size:1.8rem; display:block;"></i>
-  Academic
+  Academic CV
 </a>
 {% endif %}
     </h1>
