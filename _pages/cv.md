@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Resume/CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Reuben-Resume_Ind.pdf # you can also use external links here
