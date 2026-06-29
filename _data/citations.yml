@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-29'
 papers:
   P42isqQAAAAJ:9yKSN-GCB0IC:
     citations: 3
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: Dynamic Data Driven Security Framework for Industrial Control Networks Using Programmable Switches
     year: '2025'
+  P42isqQAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Enhancing Security of Grid Control Systems through In-network Collaboration of Programmable Data Planes
+    year: '2026'
   P42isqQAAAAJ:u-x6o8ySG0sC:
     citations: 27
     title: Towards secure and resilient synchrophasor networks using p4 programmable switches
