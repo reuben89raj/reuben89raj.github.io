@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-31'
 papers:
   P42isqQAAAAJ:9yKSN-GCB0IC:
     citations: 3
     title: Leveraging Data Plane Programmability Towards a Policy-driven In-Network Security Framework for Industrial Control Systems
     year: '2025'
-  P42isqQAAAAJ:LkGwnXOMwfcC:
+  P42isqQAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: Programmable Data Plane Approaches for ML-Based Anomalous Event Classification in Grid Sensor Networks
     year: '2026'
