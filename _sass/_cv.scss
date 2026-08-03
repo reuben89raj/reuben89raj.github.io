@@ -94,6 +94,37 @@ div.container-pdf {
   justify-content: flex-start;
 }
 
+.cv-pdf-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2.5rem;
+  margin-top: 0.75rem;
+}
+
+.cv-pdf-link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 8rem;
+  color: inherit;
+  font-size: 1rem;
+  line-height: 1.3;
+  text-align: center;
+  text-decoration: none;
+
+  i {
+    display: block;
+    margin-bottom: 0.6rem;
+    font-size: 2.25rem;
+  }
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+}
+
 /*****************************
  * CV LIST_GROUPS styles
  *****************************/
