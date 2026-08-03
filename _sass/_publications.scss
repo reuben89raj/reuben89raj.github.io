@@ -81,8 +81,11 @@
           }
         }
 
-        > em {
-          border-bottom: 1px solid;
+        > em,
+        .underline-name {
+          text-decoration: underline;
+          text-decoration-thickness: 1px;
+          text-underline-offset: 0.18em;
           font-style: normal;
         }
 
