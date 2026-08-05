@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-05'
 papers:
   P42isqQAAAAJ:9yKSN-GCB0IC:
     citations: 3
-    title: Leveraging Data Plane Programmability Towards a Policy-driven In-Network Security Framework for Industrial Control Systems
+    title: Leveraging data plane programmability towards a policy-driven in-network security framework for industrial control systems
     year: '2025'
   P42isqQAAAAJ:Se3iqnhoufwC:
     citations: 0
@@ -15,7 +15,7 @@ papers:
     year: '2024'
   P42isqQAAAAJ:_FxGoFyzp5QC:
     citations: 2
-    title: Demonstration of Multi-Provider Network and Cloud Service Provisioning With Blockchain Smart Contracts
+    title: Demonstration of multi-provider network and cloud service provisioning with blockchain smart contracts
     year: '2025'
   P42isqQAAAAJ:eQOLeE2rZwMC:
     citations: 1
