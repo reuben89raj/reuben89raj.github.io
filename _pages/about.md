@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Networks | Cybersecurity | Cloud-native ML
+subtitle: Networking | Cybersecurity | Cloud-native AI
 
 profile:
   align: right
@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a final year Ph.D. candidate in Computer Science at the University of Arkansas, Fayetteville. My research has been on developing security frameworks for Smart-Grid/ICS Networks using Network Abstraction and Programmability. 
+I'm a final year Ph.D. candidate in [Computer Science](https://engineering.uark.edu/electrical-engineering-computer-science/) at the University of Arkansas, Fayetteville. My research involves developing security and resiliency frameworks for Smart-Grid/ICS Networks using Network Abstraction and Network Programmability. I'm advised by [Dr. Kevin Jin](https://kjincs.github.io/). 
 
-Most of my works involve [P4-programming](https://p4.org/) for network switches. I've worked on Hardware(Tofino) and Software(BMv2/Mininet) P4 switches. Advisor: [Dr. Kevin Jin](https://changeyourworld.uark.edu/directory/profile/uid/dongjin/name/Kevin+Jin/). 
+Most of my works involve [P4-programming](https://p4.org/) for network switches. I've developed programmable switch pipelines on Hardware(Tofino) and Software(BMv2/Mininet) P4 switches.
 
-In the summer of 2023, I was fortunate to have interned with [Bell Labs](https://www.nokia.com/bell-labs/research/network-fundamentals/) in their Network Architecture Research Group under [Meryem Simsek](https://www.nokia.com/people/meryem-simsek/) and [Jesse Simsarian](https://www.nokia.com/people/jesse-simsarian/) in Murray Hill, NJ. I worked on a really cool Containerized Object Detection project, where I set up Kubernetes clusters on Airframe servers, optimized and containerized a YoLo-v7 object detection app to run on these clusters with low latency. Related paper [here](https://ieeexplore.ieee.org/abstract/document/11263055).
+In the summer of 2023, I interned with [Bell Labs](https://www.nokia.com/bell-labs/research/network-fundamentals/) in their Network Architecture Research Group under [Meryem Simsek](https://www.nokia.com/people/meryem-simsek/) and [Jesse Simsarian](https://www.nokia.com/people/jesse-simsarian/) in Murray Hill, NJ. I worked on a really cool Containerized Object Detection project, where I set up Kubernetes clusters on Airframe servers, optimized and containerized a YoLo-v7 object detection app to run on these clusters with low latency. Related paper [here](https://ieeexplore.ieee.org/abstract/document/11263055).
 
 Prior to joining my Ph.D. I worked with [Cisco](https://www.cisco.com/site/us/en/solutions/service-provider/networking/packet-core/index.html), [Nokia](https://www.nokia.com/core-networks/subscriber-data-management/) and [Parallel Wireless](https://www.parallelwireless.com/) in their mobile internet divisions, qualifying 4G/5G network function software.
