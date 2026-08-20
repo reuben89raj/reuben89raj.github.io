@@ -472,13 +472,6 @@ ninja.data = [{
           window.open("/assets/pdf/Reuben_CV_Full.pdf", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%72%73%30%37%37@%75%61%72%6B.%65%64%75", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
