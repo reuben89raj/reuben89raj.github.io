@@ -51,8 +51,9 @@ layout: default
     {% endif %}
   </header>
 
-  <article>
-    <div class="cv">
+  {% unless page.cv_pdf_only %}
+    <article>
+      <div class="cv">
       {% comment %} Determine which CV format to render {% endcomment %}
       {% assign render_rendercv = false %}
       {% assign render_jsonresume = false %}
@@ -401,6 +402,7 @@ layout: default
       {% else %}
         <p>No CV data found. Please configure either RenderCV (cv.yml) or JSONResume (resume.json) data.</p>
       {% endif %}
-    </div>
-  </article>
+      </div>
+    </article>
+  {% endunless %}
 </div>
