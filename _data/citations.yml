@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-09-04'
 papers:
   P42isqQAAAAJ:9yKSN-GCB0IC:
     citations: 3
@@ -26,7 +26,7 @@ papers:
     title: Enhancing Security of Grid Control Systems through In-network Collaboration of Programmable Data Planes
     year: '2026'
   P42isqQAAAAJ:u-x6o8ySG0sC:
-    citations: 21
+    citations: 22
     title: Towards secure and resilient synchrophasor networks using p4 programmable switches
     year: '2024'
   P42isqQAAAAJ:u5HHmVD_uO8C:
