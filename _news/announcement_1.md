@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-10-26
 inline: true
 related_posts: false
-hidden: true
 ---
 
-A simple inline announcement.
+[Yuexin](https://kjincs.github.io/research/people.html) presented our work at SmartGridComm 2026 in College Station, TX.
