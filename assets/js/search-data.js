@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-yuexin-presented-our-work-at-smartgridcomm-2026-in-college-station-tx",
+          title: 'Yuexin presented our work at SmartGridComm 2026 in College Station, TX.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-dddas-2026-paper-won-1st-place-for-the-best-paper-award",
+          title: 'Our DDDAS 2026 paper won 1st place for the Best Paper Award!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-successfully-passed-my-dissertation-defense",
+          title: 'Successfully passed my dissertation defense!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
