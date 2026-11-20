@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully passed my dissertation defense!
+Successfully passed my dissertation defense! 🎓 
